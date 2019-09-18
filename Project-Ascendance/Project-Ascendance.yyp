@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "8e9c2196-c11b-496f-8f3f-0559af5d7ddf",
+            "Value": {
+                "id": "e47fde65-bfb2-4522-9ced-654260801e0b",
+                "resourcePath": "objects\\o_enemy\\o_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9005ab6f-a801-4bd4-881b-4072a9e2f23d",
             "Value": {
                 "id": "d54ca75e-a3cf-456b-a810-e3f706f82d52",
@@ -260,6 +268,14 @@
                 "id": "9b3a019d-7bf0-4621-87f2-978f266a4fa6",
                 "resourcePath": "rooms\\r_base\\r_base.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c2f7c479-348e-4a6f-9b00-2684db1472d1",
+            "Value": {
+                "id": "0bf78d89-699f-4e33-939a-cf0ea3c844c4",
+                "resourcePath": "views\\c2f7c479-348e-4a6f-9b00-2684db1472d1.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

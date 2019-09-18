@@ -21,6 +21,7 @@ _hitbox.sprite_index = _sprite;
 _hitbox.image_angle = _angle;
 _hitbox.alarm[0] = _frames;
 _hitbox.targets_ = _array;
+_hitbox.damage_ = _damage;
 _hitbox.knockback = _knockback;
 
 return _hitbox;
